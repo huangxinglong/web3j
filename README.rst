@@ -1,7 +1,7 @@
 .. To build this file locally ensure docutils Python package is installed and run:
    $ rst2html.py README.rst README.html
 
-web3j: Web3 Java Ethereum Ðapp API
+web3j: Web3 Java Simplechain Ðapp API
 ==================================
 
 .. image:: https://readthedocs.org/projects/web3j/badge/?version=latest
